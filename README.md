@@ -1,4 +1,5 @@
 ### Hi there 👋
+![pedro](https://user-images.githubusercontent.com/118199944/211352602-4ada693b-f7ee-4fe9-96c2-1f68d74049ce.png)
 
 - 🔭 I’m currently working on websites
 - 🌱 I’m currently learning websites
