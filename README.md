@@ -10,4 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: websites
 
-# [Portfolio](https://github.com/alencars25/portfolio/)
+## [Portfolio](https://alencars25.github.io/portfolio/index.html)
